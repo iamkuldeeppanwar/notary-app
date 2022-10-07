@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/argon-dashboard-react/static/css/main.0470216a.chunk.css",
-    "main.js": "/argon-dashboard-react/static/js/main.749979c2.chunk.js",
-    "main.js.map": "/argon-dashboard-react/static/js/main.749979c2.chunk.js.map",
-    "runtime-main.js": "/argon-dashboard-react/static/js/runtime-main.ec85921f.js",
-    "runtime-main.js.map": "/argon-dashboard-react/static/js/runtime-main.ec85921f.js.map",
-    "static/css/2.b69504de.chunk.css": "/argon-dashboard-react/static/css/2.b69504de.chunk.css",
-    "static/js/2.34f4f8bf.chunk.js": "/argon-dashboard-react/static/js/2.34f4f8bf.chunk.js",
-    "static/js/2.34f4f8bf.chunk.js.map": "/argon-dashboard-react/static/js/2.34f4f8bf.chunk.js.map",
-    "index.html": "/argon-dashboard-react/index.html",
-    "static/css/2.b69504de.chunk.css.map": "/argon-dashboard-react/static/css/2.b69504de.chunk.css.map",
-    "static/css/main.0470216a.chunk.css.map": "/argon-dashboard-react/static/css/main.0470216a.chunk.css.map",
-    "static/js/2.34f4f8bf.chunk.js.LICENSE.txt": "/argon-dashboard-react/static/js/2.34f4f8bf.chunk.js.LICENSE.txt",
-    "static/js/main.749979c2.chunk.js.LICENSE.txt": "/argon-dashboard-react/static/js/main.749979c2.chunk.js.LICENSE.txt",
-    "static/media/all.min.css": "/argon-dashboard-react/static/media/fa-solid-900.efbd5d20.eot",
-    "static/media/nucleo.css": "/argon-dashboard-react/static/media/nucleo-icons.d6a66724.ttf"
+    "main.css": "/notary-app/static/css/main.89891d4d.chunk.css",
+    "main.js": "/notary-app/static/js/main.96f5fabf.chunk.js",
+    "main.js.map": "/notary-app/static/js/main.96f5fabf.chunk.js.map",
+    "runtime-main.js": "/notary-app/static/js/runtime-main.94a95290.js",
+    "runtime-main.js.map": "/notary-app/static/js/runtime-main.94a95290.js.map",
+    "static/css/2.5bd2fc7c.chunk.css": "/notary-app/static/css/2.5bd2fc7c.chunk.css",
+    "static/js/2.34f4f8bf.chunk.js": "/notary-app/static/js/2.34f4f8bf.chunk.js",
+    "static/js/2.34f4f8bf.chunk.js.map": "/notary-app/static/js/2.34f4f8bf.chunk.js.map",
+    "index.html": "/notary-app/index.html",
+    "static/css/2.5bd2fc7c.chunk.css.map": "/notary-app/static/css/2.5bd2fc7c.chunk.css.map",
+    "static/css/main.89891d4d.chunk.css.map": "/notary-app/static/css/main.89891d4d.chunk.css.map",
+    "static/js/2.34f4f8bf.chunk.js.LICENSE.txt": "/notary-app/static/js/2.34f4f8bf.chunk.js.LICENSE.txt",
+    "static/js/main.96f5fabf.chunk.js.LICENSE.txt": "/notary-app/static/js/main.96f5fabf.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/notary-app/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/nucleo.css": "/notary-app/static/media/nucleo-icons.d6a66724.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec85921f.js",
-    "static/css/2.b69504de.chunk.css",
+    "static/js/runtime-main.94a95290.js",
+    "static/css/2.5bd2fc7c.chunk.css",
     "static/js/2.34f4f8bf.chunk.js",
-    "static/css/main.0470216a.chunk.css",
-    "static/js/main.749979c2.chunk.js"
+    "static/css/main.89891d4d.chunk.css",
+    "static/js/main.96f5fabf.chunk.js"
   ]
 }
